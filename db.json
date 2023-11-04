@@ -1,0 +1,113 @@
+{
+  "startQuiz": [
+    {
+      "id": 1,
+      "type": "singleChoice",
+      "questionText": "What is the largest planet in our solar system?",
+      "options": [
+        {
+          "id": 1,
+          "text": "Earth"
+        },
+        {
+          "id": 2,
+          "text": "Mars"
+        },
+        {
+          "id": 3,
+          "text": "Jupiter"
+        },
+        {
+          "id": 4,
+          "text": "Venus"
+        }
+      ],
+      "correctOptionId": [
+        3
+      ]
+    },
+    {
+      "id": 2,
+      "type": "multipleChoice",
+      "questionText": "Which of these are terrestrial planets?",
+      "optionalImage": "../assets/planets.png",
+      "options": [
+        {
+          "id": 5,
+          "text": "Mercury"
+        },
+        {
+          "id": 6,
+          "text": "Saturn"
+        },
+        {
+          "id": 7,
+          "text": "Uranus"
+        },
+        {
+          "id": 8,
+          "text": "Mars"
+        }
+      ],
+      "correctOptionId": [
+        5,
+        8
+      ]
+    },
+    {
+      "id": 3,
+      "type": "singleChoice",
+      "questionText": "What gas do plants release during photosynthesis?",
+      "options": [
+        {
+          "id": 9,
+          "text": "Oxygen (O2)"
+        },
+        {
+          "id": 10,
+          "text": "Carbon Dioxide (CO2)"
+        },
+        {
+          "id": 11,
+          "text": "Nitrogen (N2)"
+        },
+        {
+          "id": 12,
+          "text": "Hydrogen (H2)"
+        }
+      ],
+      "correctOptionId": [
+        9
+      ]
+    },
+    {
+      "id": 4,
+      "type": "multipleChoice",
+      "questionText": "Which of these are programming languages?",
+      "options": [
+        {
+          "id": 13,
+          "text": "Apple"
+        },
+        {
+          "id": 14,
+          "text": "Java"
+        },
+        {
+          "id": 15,
+          "text": "Banana"
+        },
+        {
+          "id": 16,
+          "text": "Python"
+        }
+      ],
+      "correctOptionId": [
+        14,
+        16
+      ]
+    }
+  ],
+  "submitions": [],
+  "result": []
+}
